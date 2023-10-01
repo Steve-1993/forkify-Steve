@@ -136,7 +136,6 @@ const controlAddRecipe = async function (newRecipe) {
 
 const newFeatured = function () {
   console.log('Welcome to the application!');
-  console.log('Welcome to the application2!');
 };
 
 const init = function () {
